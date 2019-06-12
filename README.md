@@ -1,0 +1,12 @@
+# Django Polls
+- [x] **Creating a project.** Have learned how to create projects and apps
+    - [x] **Connect to MySQL database**
+- [x] **Database setup.** Models and migrations
+    - [x] **Register admin**
+- [x] **Writing more views.** New views and some templates
+    - [x] **Namespacing URL names**
+- [x] **Write a simple form.** Work with form and write votes to DB
+    - [x] **Using classes in 'polls/views.py'**
+- [x] **Introducing automated testing.** Wrote some tests
+- [x] **Customize app’s look and fee.** Using static files (css, images, etc.)
+- [x] **Customize the admin form.** Simple work with admin page
